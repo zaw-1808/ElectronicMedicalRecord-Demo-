@@ -54,8 +54,7 @@ The project is split into **three concurrent modules**, each developed on its ow
 
 ## 🎯 Project Goal
 
-> To simulate and optimize inter-departmental data flow and patient journeys within modern healthcare systems.
-
+> HIS Demo 
 ---
 
 ## 👨‍⚕️ Developer
