@@ -54,7 +54,7 @@ The project is split into **three concurrent modules**, each developed on its ow
 
 ## 🎯 Project Goal
 
-> HIS Demo 
+> Hospital Information System (Demo)
 ---
 
 ## 👨‍⚕️ Developer
@@ -62,7 +62,6 @@ The project is split into **three concurrent modules**, each developed on its ow
 <div align="center">
 
 **Dr. Zaw**
-Lead Developer
 
 ![MBBS](https://img.shields.io/badge/MBBS-4B0082?style=flat-square)
 ![MPH (UM)](https://img.shields.io/badge/MPH-4B0082?style=flat-square)
