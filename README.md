@@ -12,11 +12,13 @@
 
 <div align="center">
 
-![Paper MR](https://img.shields.io/badge/📋_Paper_MR-Legacy_Era-D97706?style=for-the-badge&labelColor=1F2937)
-&nbsp;➔&nbsp;
-![Digital EMR](https://img.shields.io/badge/💻_Digital_EMR-Current_Era-0EA5E9?style=for-the-badge&labelColor=1F2937)
-&nbsp;➔&nbsp;
-![AI Powered](https://img.shields.io/badge/🤖_AI--Powered-Next_Era-EC4899?style=for-the-badge&labelColor=1F2937)
+<img src="https://img.shields.io/badge/📋_Paper_MR-Legacy_Era-D97706?style=for-the-badge&labelColor=1F2937&color=D97706" height="40"/>
+<img src="https://img.shields.io/badge/➜-0EA5E9?style=for-the-badge&labelColor=0EA5E9&color=0EA5E9" height="40"/>
+<img src="https://img.shields.io/badge/💻_Digital_EMR-Current_Era-0EA5E9?style=for-the-badge&labelColor=1F2937&color=0EA5E9" height="40"/>
+<img src="https://img.shields.io/badge/➜-EC4899?style=for-the-badge&labelColor=EC4899&color=EC4899" height="40"/>
+<img src="https://img.shields.io/badge/🤖_AI--Powered-Next_Era-EC4899?style=for-the-badge&labelColor=1F2937&color=EC4899" height="40"/>
+
+<sub>⚡ Legacy paper trails → connected digital records → intelligence-driven care ⚡</sub>
 
 </div>
 
