@@ -1,7 +1,3 @@
-# ElectronicMedicalRecord-Demo
-
-<div align="center">
-
 # 🏥 Black Forest Healthcare System
 
 ### ElectronicMedicalRecord-Demo (HIS)
