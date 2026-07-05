@@ -3,7 +3,9 @@
 # 🏥 Black Forest Healthcare System (HIS Demo)
 
 
-
+<div align="center">
+   <img src="assets/journey-banner.svg" width="100%"/>
+   </div>
 </div>
 
 ---
