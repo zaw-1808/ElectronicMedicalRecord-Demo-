@@ -102,7 +102,7 @@ git pull origin main
 Lead Developer
 
 ![MBBS](https://img.shields.io/badge/MBBS-4B0082?style=flat-square)
-![MPH](https://img.shields.io/badge/MPH-4B0082?style=flat-square)
+![MPH (UM)](https://img.shields.io/badge/MPH-4B0082?style=flat-square)
 ![Health%20Tech](https://img.shields.io/badge/Health%20Tech-0F6E56?style=flat-square)
 
 </div>
