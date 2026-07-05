@@ -20,34 +20,7 @@
 <svg width="900" height="260" viewBox="0 0 900 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Journey from Paper MR to Digital EMR to AI-Powered healthcare">
   <title>Paper MR → Digital EMR → AI-Powered</title>
 
-  <defs>
-    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#D97706"/>
-      <stop offset="50%" stop-color="#0EA5E9"/>
-      <stop offset="100%" stop-color="#EC4899"/>
-    </linearGradient>
-
-    <radialGradient id="glowAmber" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#FBBF24"/>
-      <stop offset="100%" stop-color="#D97706"/>
-    </radialGradient>
-    <radialGradient id="glowBlue" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#38BDF8"/>
-      <stop offset="100%" stop-color="#0369A1"/>
-    </radialGradient>
-    <radialGradient id="glowPink" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#F472B6"/>
-      <stop offset="100%" stop-color="#BE185D"/>
-    </radialGradient>
-
-    <filter id="softGlow" x="-60%" y="-60%" width="220%" height="220%">
-      <feGaussianBlur stdDeviation="8" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-  </defs>
+ 
 
   <!-- connector line -->
   <line x1="150" y1="140" x2="750" y2="140" stroke="url(#lineGrad)" stroke-width="5" stroke-dasharray="14 12" stroke-linecap="round"/>
