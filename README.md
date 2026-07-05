@@ -3,11 +3,6 @@
 # 🏥 Black Forest Healthcare System (HIS Demo)
 
 
-<div align="center">
-   <img src="assets/journey-banner.svg" width="100%"/>
-   </div>
-</div>
-
 ---
 
 ## 🧭 Timeline 
@@ -24,39 +19,8 @@
 
  
 
-  <!-- connector line -->
-  <line x1="150" y1="140" x2="750" y2="140" stroke="url(#lineGrad)" stroke-width="5" stroke-dasharray="14 12" stroke-linecap="round"/>
-
-  <!-- node 1: Paper MR -->
-  <g filter="url(#softGlow)">
-    <circle cx="150" cy="140" r="42" fill="url(#glowAmber)"/>
-  </g>
-  <circle cx="150" cy="140" r="42" fill="none" stroke="#1F2937" stroke-width="3"/>
-  <text x="150" y="152" font-size="34" text-anchor="middle">📋</text>
-  <text x="150" y="205" font-size="19" font-weight="700" text-anchor="middle" fill="#D97706" font-family="Segoe UI, Arial, sans-serif">Paper MR</text>
-  <text x="150" y="228" font-size="13" text-anchor="middle" fill="#92600A" font-family="Segoe UI, Arial, sans-serif">Legacy era</text>
-
-  <!-- node 2: Digital EMR -->
-  <g filter="url(#softGlow)">
-    <circle cx="450" cy="140" r="48" fill="url(#glowBlue)"/>
-  </g>
-  <circle cx="450" cy="140" r="48" fill="none" stroke="#1F2937" stroke-width="3"/>
-  <text x="450" y="154" font-size="38" text-anchor="middle">💻</text>
-  <text x="450" y="212" font-size="21" font-weight="700" text-anchor="middle" fill="#0EA5E9" font-family="Segoe UI, Arial, sans-serif">Digital EMR</text>
-  <text x="450" y="235" font-size="13" text-anchor="middle" fill="#075985" font-family="Segoe UI, Arial, sans-serif">Current era</text>
-
-  <!-- node 3: AI-Powered -->
-  <g filter="url(#softGlow)">
-    <circle cx="750" cy="140" r="42" fill="url(#glowPink)"/>
-  </g>
-  <circle cx="750" cy="140" r="42" fill="none" stroke="#1F2937" stroke-width="3"/>
-  <text x="750" y="152" font-size="34" text-anchor="middle">🤖</text>
-  <text x="750" y="205" font-size="19" font-weight="700" text-anchor="middle" fill="#EC4899" font-family="Segoe UI, Arial, sans-serif">AI-Powered</text>
-  <text x="750" y="228" font-size="13" text-anchor="middle" fill="#9D174D" font-family="Segoe UI, Arial, sans-serif">Next era</text>
-
-  <!-- top caption -->
-  <text x="450" y="35" font-size="22" font-weight="700" text-anchor="middle" fill="#1F2937" font-family="Segoe UI, Arial, sans-serif">From paper trails to intelligent care</text>
-</svg>
+  
+  
 <sub>⚡ Legacy paper trails → connected digital records → intelligence-driven care ⚡</sub>
 
 </div>
