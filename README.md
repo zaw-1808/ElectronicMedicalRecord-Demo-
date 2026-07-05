@@ -58,27 +58,6 @@ The project is split into **three concurrent modules**, each developed on its ow
 
 ---
 
-## 🌳 Project Architecture — Git Branches
-
-To keep the system stable, development follows a strict branching strategy:
-
-| Branch | Purpose | Status |
-|---|---|---|
-| 🟢 `main` | Production-ready, fully tested code | ✅ Stable |
-| 🟣 `pt-registration` | Patient intake workflow | 🚧 In progress |
-| 🟠 `appointment` | Scheduling & token system | 🚧 In progress |
-| 🔵 `nurse-station` | Nurse dashboard & vital logs | 🚧 In progress |
-
-> 💡 **Workflow tip:** feature branches merge into `main` only after review — keeping production code stable while each module evolves independently.
-
-```bash
-# switch to a feature branch
-git checkout nurse-station
-
-# stay up to date with main
-git pull origin main
-```
-
 ---
 
 ## 🎯 Project Goal
