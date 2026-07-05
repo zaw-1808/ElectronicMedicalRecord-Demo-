@@ -16,7 +16,7 @@
 
 ---
 
-## 🧭 The journey
+## 🧭 Timeline 
 
 <div align="center">
 
@@ -108,8 +108,7 @@ git pull origin main
 
 ## 🎯 Project Goal
 
-> To simulate and optimize inter-departmental data flow and patient journeys within modern healthcare systems.
-
+> To build HIS demo 
 ---
 
 ## 👨‍⚕️ Developer
@@ -117,7 +116,6 @@ git pull origin main
 <div align="center">
 
 **Dr. Zaw**
-Lead Developer
 
 ![MBBS](https://img.shields.io/badge/MBBS-4B0082?style=flat-square)
 ![MPH](https://img.shields.io/badge/MPH-4B0082?style=flat-square)
