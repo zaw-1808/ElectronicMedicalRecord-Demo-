@@ -26,7 +26,7 @@ The project is split into **three concurrent modules**, each developed on its ow
 
 ---
 
-## ✨ Key Features Under Development
+##  Key Features Under Development
 
 <table>
 <tr>
@@ -39,14 +39,14 @@ The project is split into **three concurrent modules**, each developed on its ow
 </td>
 <td width="33%" valign="top">
 
-### 📅 Appointment Scheduling
+### Appointment Scheduling
 - Manage doctor schedules and shift duties
 - Book appointments and generate queue tokens
 
 </td>
 <td width="33%" valign="top">
 
-### 🩺 Nurse Station
+### Nurse Station
 - Record and track vitals (BP, temperature, pulse)
 - Triage system to prioritize by emergency level
 
@@ -55,13 +55,6 @@ The project is split into **three concurrent modules**, each developed on its ow
 </table>
 
 ---
-
-## 🛠️ Tech Stack
-
-| Layer | Tools |
-|---|---|
-| 🎨 Frontend | HTML5 · CSS3 · JavaScript |
-| 🔧 Version control | Git & GitHub (multi-branch workflow) |
 
 ---
 
