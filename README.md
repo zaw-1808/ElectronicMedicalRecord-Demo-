@@ -1,6 +1,4 @@
-# 🏥 Black Forest Healthcare System
-
-### ElectronicMedicalRecord-Demo (HIS)
+# 🏥 Black Forest Healthcare System (### ElectronicMedicalRecord-Demo (HIS))
 
 *A modern Hospital Information System demo — digitally managing hospital operations from end to end.*
 
