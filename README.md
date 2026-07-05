@@ -1,6 +1,7 @@
 <div align="center">
 
-# 🏥 Black Forest Healthcare System (### ElectronicMedicalRecord-Demo)
+# 🏥 Black Forest Healthcare System 
+### ElectronicMedicalRecord-Demo
 
 *From paper MR to digital EMR — and now, AI.*
 
