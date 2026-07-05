@@ -3,8 +3,6 @@
 # 🏥 Black Forest Healthcare System 
 ### ElectronicMedicalRecord-Demo
 
-*From paper MR to digital EMR — and now, AI.*
-
 
 
 </div>
