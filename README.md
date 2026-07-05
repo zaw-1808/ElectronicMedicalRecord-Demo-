@@ -13,11 +13,11 @@
 
 <div align="center">
 
-![Paper MR](https://img.shields.io/badge/📋_Paper_MR-Legacy_Era-8B7355?style=for-the-badge)
-➡️
-![Digital EMR](https://img.shields.io/badge/💻_Digital_EMR-Current_Era-1572B6?style=for-the-badge)
-➡️
-![AI Powered](https://img.shields.io/badge/🤖_AI--Powered-Next_Era-7F77DD?style=for-the-badge)
+![Paper MR](https://img.shields.io/badge/📋_Paper_MR-Legacy_Era-D97706?style=for-the-badge&labelColor=1F2937)
+&nbsp;➔&nbsp;
+![Digital EMR](https://img.shields.io/badge/💻_Digital_EMR-Current_Era-0EA5E9?style=for-the-badge&labelColor=1F2937)
+&nbsp;➔&nbsp;
+![AI Powered](https://img.shields.io/badge/🤖_AI--Powered-Next_Era-EC4899?style=for-the-badge&labelColor=1F2937)
 
 </div>
 
