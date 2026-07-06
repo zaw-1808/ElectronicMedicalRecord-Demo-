@@ -1,130 +1,120 @@
 <div align="center">
+🏥 Black Forest Healthcare System
 
-# 🏥 Black Forest Healthcare System
+ElectronicMedicalRecord-Demo (HIS)
 
-### ElectronicMedicalRecord-Demo (HIS)
+From paper MR to digital EMR — and now, AI.
 
-*From paper MR to digital EMR — and now, AI.*
-
-![Status](https://img.shields.io/badge/status-in%20development-orange?style=for-the-badge)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
----
-
-## 🧭 The journey
-
-<div align="center">
-
-<img src="assets/journey-banner.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DD5FA,100:2980B9&height=180&section=header&text=Black%20Forest%20HIS&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Paper%20%E2%86%92%20Digital%20%E2%86%92%20AI-driven%20Healthcare&descAlignY=58&descSize=18" width="100%"/>
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
 
 </div>
 
-Hospitals once ran entirely on paper — Medical Records (MR) filed by hand, charts passed ward to ward, prone to loss and delay. **Black Forest Healthcare System** reflects the next step in that evolution: moving patient records, workflows, and clinical data fully digital.
+🧭 The Journey
 
-> **Paper recorded the past. Digital connects the present. AI shapes what's next for healthcare.**
->
-> In the AI era, we believe digital health — and systems like this HIS — can do more than just store records. They can think alongside the clinician.
+Hospitals once ran entirely on paper — Medical Records (MR) filed by hand, charts passed ward to ward, prone to loss and delay. Black Forest Healthcare System reflects the next step in that evolution: moving patient records, workflows, and clinical data fully digital.
 
----
 
-## 📖 Overview
+💬 Paper recorded the past. Digital connects the present. AI shapes what's next for healthcare.
 
-**Black Forest Healthcare System** is a Hospital Information System (HIS) demo project built to simulate real hospital workflows — from the moment a patient walks in, to booking their appointment, to the nurse station recording their vitals.
+In the AI era, we believe digital health — and systems like this HIS — can do more than just store records. They can think alongside the clinician.
 
-The project is split into **three concurrent modules**, each developed on its own Git branch to keep work isolated and clean.
 
----
 
-## ✨ Key Features Under Development
 
-<table>
+📖 Overview
+
+Black Forest Healthcare System is a Hospital Information System (HIS) demo project built to simulate real hospital workflows — from the moment a patient walks in, to booking their appointment, to the nurse station recording their vitals.
+
+The project is split into three concurrent modules, each developed on its own Git branch to keep work isolated and clean.
+
+
+✨ Key Features Under Development
+
+<table width="100%">
 <tr>
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
+<img src="https://img.shields.io/badge/🧾-Patient%20Registration-8E44AD?style=for-the-badge&labelColor=1a1a2e"/>
+<br/><br/>
 
-### 🧾 Patient Registration
-- Record patient demographics and personal ID (NRC/ID)
-- Auto-generate unique Patient IDs
-
-</td>
-<td width="33%" valign="top">
-
-### 📅 Appointment Scheduling
-- Manage doctor schedules and shift duties
-- Book appointments and generate queue tokens
+✅ Record patient demographics & ID (NRC/ID)
+✅ Auto-generate unique Patient IDs
 
 </td>
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
+<img src="https://img.shields.io/badge/📅-Appointment%20Scheduling-E67E22?style=for-the-badge&labelColor=1a1a2e"/>
+<br/><br/>
 
-### 🩺 Nurse Station
-- Record and track vitals (BP, temperature, pulse)
-- Triage system to prioritize by emergency level
+✅ Manage doctor schedules & shift duties
+✅ Book appointments & generate queue tokens
+
+</td>
+<td width="33%" valign="top" align="center">
+<img src="https://img.shields.io/badge/🩺-Nurse%20Station-2E86C1?style=for-the-badge&labelColor=1a1a2e"/>
+<br/><br/>
+
+✅ Record & track vitals (BP, temp, pulse)
+✅ Triage system by emergency level
 
 </td>
 </tr>
 </table>
 
----
+🛠️ Tech Stack
 
-## 🛠️ Tech Stack
+<div align="center">
+LayerTools🎨 FrontendHTML5 · CSS3 · JavaScript🔧 Version ControlGit & GitHub (multi-branch workflow)
 
-| Layer | Tools |
-|---|---|
-| 🎨 Frontend | HTML5 · CSS3 · JavaScript |
-| 🔧 Version control | Git & GitHub (multi-branch workflow) |
+</div>
 
----
-
-## 🌳 Project Architecture — Git Branches
+🌳 Project Architecture — Git Branches
 
 To keep the system stable, development follows a strict branching strategy:
 
-| Branch | Purpose | Status |
-|---|---|---|
-| 🟢 `main` | Production-ready, fully tested code | ✅ Stable |
-| 🟣 `pt-registration` | Patient intake workflow | 🚧 In progress |
-| 🟠 `appointment` | Scheduling & token system | 🚧 In progress |
-| 🔵 `nurse-station` | Nurse dashboard & vital logs | 🚧 In progress |
+<div align="center">
+BranchPurposeStatus🟢 mainProduction-ready, fully tested code✅ Stable🟣 pt-registrationPatient intake workflow🚧 In progress🟠 appointmentScheduling & token system🚧 In progress🔵 nurse-stationNurse dashboard & vital logs🚧 In progress
 
-> 💡 **Workflow tip:** feature branches merge into `main` only after review — keeping production code stable while each module evolves independently.
+</div>
 
-```bash
-# switch to a feature branch
+💡 Workflow tip: feature branches merge into main only after review — keeping production code stable while each module evolves independently.
+
+
+
+bash# switch to a feature branch
 git checkout nurse-station
 
 # stay up to date with main
 git pull origin main
-```
 
----
 
-## 🎯 Project Goal
-
-> To simulate and optimize inter-departmental data flow and patient journeys within modern healthcare systems.
-
----
-
-## 👨‍⚕️ Developer
+🎯 Project Goal
 
 <div align="center">
 
-**Dr. Zaw**
-Lead Developer
+🌐 To simulate and optimize inter-departmental data flow and patient journeys within modern healthcare systems.
 
-![MBBS](https://img.shields.io/badge/MBBS-4B0082?style=flat-square)
-![MPH](https://img.shields.io/badge/MPH-4B0082?style=flat-square)
-![Health%20Tech](https://img.shields.io/badge/Health%20Tech-0F6E56?style=flat-square)
+
 
 </div>
 
----
+👨‍⚕️ Developer
 
 <div align="center">
+<img src="https://img.shields.io/badge/Dr.%20Zaw-Lead%20Developer-4B0082?style=for-the-badge&logo=stethoscope&logoColor=white"/>
+<br/><br/>
 
-*Built with 🩺 to bridge clinical knowledge and software engineering.*
+Show Image
+Show Image
+Show Image
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2980B9,100:6DD5FA&height=100&section=footer" width="100%"/>
+Built with 🩺 to bridge clinical knowledge and software engineering.
 
 </div>
