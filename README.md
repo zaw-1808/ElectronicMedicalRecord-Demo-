@@ -6,11 +6,6 @@ ElectronicMedicalRecord-Demo (HIS)
 From paper MR to digital EMR — and now, AI.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DD5FA,100:2980B9&height=180&section=header&text=Black%20Forest%20HIS&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Paper%20%E2%86%92%20Digital%20%E2%86%92%20AI-driven%20Healthcare&descAlignY=58&descSize=18" width="100%"/>
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
 
 </div>
 
