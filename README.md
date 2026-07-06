@@ -139,15 +139,14 @@ git pull origin main
 
 ---
 
-## 👨‍⚕️ Developer
+👨‍⚕️ Developer
 
 <div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=8E44AD&center=true&vCenter=true&width=500&lines=Dr.+Zaw;MBBS%2C+MPH;Lead+Developer;Clinician+%2B+Coder;Building+Black+Forest+HIS" alt="Typing SVG"/>
+<br/>
+<br/><br/>
 
-<img src="https://img.shields.io/badge/Dr.%20Zaw-Lead%20Developer-4B0082?style=for-the-badge&logo=stethoscope&logoColor=white"/>
-![MBBS](https://img.shields.io/badge/MBBS-4B0082?style=flat-square)
-![MPH](https://img.shields.io/badge/MPH-4B0082?style=flat-square)
-![Health%20Tech](https://img.shields.io/badge/Health%20Tech-0F6E56?style=flat-square)
-
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:8E44AD,100:2E86C1&height=3&width=500" />
 </div>
 
 ---
